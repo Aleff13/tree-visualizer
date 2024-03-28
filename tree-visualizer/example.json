@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "123123",
+      "name": "tree1",
+      "children": [
+        {
+          "id": "123123",
+          "name": "another name"
+        },
+        {
+            "id": "1231235",
+            "name": "another name"
+        }
+      ]
+    },
+    {
+        "id": "123123",
+        "name": "tree2",
+        "children": [
+          {
+            "id": "123123",
+            "name": "another name"
+          },
+          {
+              "id": "1231235",
+              "name": "another name"
+          }
+        ]
+      }
+  ]
+}
