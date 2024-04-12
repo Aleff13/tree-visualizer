@@ -6,11 +6,29 @@
       "children": [
         {
           "id": "123123",
-          "name": "another name"
+          "name": "node x",
+          "children": [
+            {
+              "id": "1231235",
+              "name": "node y",
+              "children": [
+                {
+                  "id": "1231235",
+                  "name": "leaf"
+                }
+              ]
+            }
+          ]
         },
         {
             "id": "1231235",
-            "name": "another name"
+            "name": "node z",
+            "children": [
+              {
+                "id": "1231235",
+                "name": "leaf"
+              }
+            ]
         }
       ]
     },
